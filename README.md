@@ -1,7 +1,7 @@
 # Simple implementation of Equivariant GNN
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/senya-ashukha/egnn-hse/blob/main/simple-egnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/senya-ashukha/egnn-hse/blob/main/simple-egnn.ipynb)
 
 - A short implementation of [E(n) Equivariant Graph Neural Networks](https://arxiv.org/pdf/2102.09844.pdf) for [HOMO energy](https://en.wikipedia.org/wiki/HOMO_and_LUMO) prediction.
 - Just 50 lines of code; 
